@@ -11,3 +11,5 @@
 ## Créditos
 
 ## Licença do projeto
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
