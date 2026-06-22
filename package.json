@@ -1,0 +1,29 @@
+{
+  "name": "08-js-jogo-da-forca",
+  "version": "1.0.0",
+  "description": "Jogo da Forca em JavaScript, executado via terminal com Node.js. Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghopuser45/08-JS-Jogo-da-Forca.git"
+  },
+  "keywords": [
+    "jogo-da-forca",
+    "javascript",
+    "node",
+    "terminal"
+  ],
+  "author": "Gustavo Henrique",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ghopuser45/08-JS-Jogo-da-Forca/issues"
+  },
+  "homepage": "https://github.com/Ghopuser45/08-JS-Jogo-da-Forca#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
