@@ -18,15 +18,15 @@ O jogador perde caso alcance o número máximo de erros.
 
 ## Como Jogar
 
-1 - Acesse a pasta do projeto 08-JS-Jogo-da-Forca via terminal.
-2 - Execute o jogo pelo terminal (CMD) no Windows ou Bash (Shell) no Linux usando o comando npm start.
-3 - Escolha uma das categorias disponíveis.
-4 - Digite uma letra por vez para tentar descobrir a palavra secreta.
-5 - Caso precise de ajuda, digite "dica" para receber uma pista sobre a palavra.
-6 - O uso da dica consome uma tentativa.
-7 - O jogador vence ao descobrir todas as letras da palavra antes de atingir o limite de erros.
-8 - Ao final da partida será exibida a pontuação obtida.
-9 - O jogador poderá iniciar uma nova rodada ao término da partida.
+- Acesse a pasta do projeto 08-JS-Jogo-da-Forca via terminal.
+- Execute o jogo pelo terminal (CMD) no Windows ou Bash (Shell) no Linux usando o comando npm start.
+- Escolha uma das categorias disponíveis.
+- Digite uma letra por vez para tentar descobrir a palavra secreta.
+- Caso precise de ajuda, digite "dica" para receber uma pista sobre a palavra.
+- O uso da dica consome uma tentativa.
+- O jogador vence ao descobrir todas as letras da palavra antes de atingir o limite de erros.
+- Ao final da partida será exibida a pontuação obtida.
+- O jogador poderá iniciar uma nova rodada ao término da partida.
 
 ## Como executar
 
