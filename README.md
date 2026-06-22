@@ -77,7 +77,7 @@ O jogo será iniciado no terminal.
 
 ## Créditos
 
-Este projeto foi desenvolvido como atividade acadêmica da disciplina de JavaScript.
+Este projeto foi desenvolvido como atividade acadêmica da disciplina de WEB I sobre o conteúdo de JavaScript.
 
 Referências utilizadas:
 
